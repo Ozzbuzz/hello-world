@@ -1,2 +1,6 @@
 # hello-world
-Just a repository
+
+Komm schon alter, das ist nicht möglich!
+
+Aber man hat scho Pferde kotzen sehen.
+
